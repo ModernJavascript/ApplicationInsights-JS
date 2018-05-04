@@ -1,0 +1,9 @@
+# NPM Ignore
+
+# ignore everything
+*
+
+# ... but these files
+!/package.json
+!/dist/ai.channel.js
+!/dist/ai.channel.js.map

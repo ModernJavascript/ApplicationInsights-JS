@@ -1,0 +1,10 @@
+{
+  "name": "applicationinsights-channel-js",
+  "version": "0.0.1",
+  "description": "Microsoft Application Insights Javascript Channel",
+  "author": "Microsoft Application Insights Team",
+  "license": "MIT",
+  "devDependencies": {
+    "applicationinsights-core-js": "^0.0.1"
+  }
+}
